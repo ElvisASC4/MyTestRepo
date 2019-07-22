@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 I love Elvis.
 
 # Positive Energy
 # Good Vibes Only
 # Suns Out Guns Out
+=======
+I love Elvis - Ty
+>>>>>>> f9029c12c5b751d1630e1404701147a1902f3863
