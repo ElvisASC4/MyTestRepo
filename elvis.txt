@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 I love Elvis. like a lot
+=======
+I love Elvis.
+
+# Positive Energy
+# Good Vibes Only
+# Suns Out Guns Out
+>>>>>>> d9cc6137ca65f902e226b90967dc09bb7ed66486
